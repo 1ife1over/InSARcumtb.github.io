@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "College of Geoscience and Surveying Engineering<br>China University of Mining and Technology, Beijing"
   location         : "Beijing, China"
-  employer         : "China University of Mining and Technology, Beijing"
+  employer         : '<span style="white-space: nowrap; display: inline-block;"><a href="https://www.cumtb.edu.cn/" target="_blank">CUMTB</a></span>'
   # uri              : # URL
   email            : "weitang@cumtb.edu.cn" 
 
