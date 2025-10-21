@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* 白天模式下的链接颜色 */
+body {
+  a {
+    color: #007bff;  /* 你可以修改成你喜欢的颜色，例如蓝色 */
+    // text-decoration: none; /* 可选，去掉下划线 */
+  }
+
+  a:hover {
+    color: #0056b3;  /* 鼠标悬停时的颜色 */
+    // text-decoration: underline; /* 可选，鼠标悬停时添加下划线 */
+  }
+}
