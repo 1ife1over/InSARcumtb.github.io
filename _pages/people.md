@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 
 layout: archive
@@ -221,3 +220,4 @@ author_profile: true
 
 * **王金洋** 
 >>>>>>> 774ef6b (Initial commit)
+
