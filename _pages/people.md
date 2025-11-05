@@ -16,16 +16,14 @@ author_profile: true
 
 ## 教师
 
-<div style="text-align: left;"> 
-  <img src="https://github.com/1ife1over/InSARcumtb.github.io/raw/master/images/weitang_photo.jpg" alt="WT_photo" width="300">
-</div>
+<img src="/images/weitang_photo.jpg" alt="WT_photo" width="300">
 
 
 
 
-**唐 伟 副教授/博导**  
-中国矿业大学（北京）
-地球科学与测绘工程学院
+**唐 伟 副教授/博导** 
+
+中国矿业大学（北京） 地球科学与测绘工程学院
 
 
 **研究方向**
