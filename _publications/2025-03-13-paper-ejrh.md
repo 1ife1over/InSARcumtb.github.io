@@ -6,12 +6,10 @@ permalink: /publication/ejrh1
 excerpt: 'Xiangjun Zhao; Wei Tang*; Guangyao Hao; et al. Characterizing aquifer properties in the Taiyuan Basin, Northern China, using ground deformation from Sentinel-1 InSAR time series analysis, Journal of Hydrology: Regional Studies, 2025, 58, 102313.  [https://doi.org/10.1016/j.ejrh.2025.102313](https://doi.org/10.1016/j.ejrh.2025.102313)'
 date: 2025-03-13
 venue: 'March 13'
-paperurl: '/files/journal-of-hydrology-regional-studies1.pdf'
+# paperurl: '/files/journal-of-hydrology-regional-studies1.pdf'
 
 ---
 
-[Download Paper](/files/journal-of-hydrology-regional-studies1.pdf)
- | 
 [View Online](https://doi.org/10.1016/j.ejrh.2025.102313)
 
 - Study region
@@ -40,4 +38,4 @@ Land subsidence lags groundwater level changes by an average of 39 days, reveali
 
 # Graphical Abstract
 
-![Graphical Abstract](/files/johrs_abstract.png)
+![Graphical Abstract](/InSARcumtb.github.io/files/johrs_abstract.png)

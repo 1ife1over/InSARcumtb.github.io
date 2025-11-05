@@ -6,11 +6,9 @@ permalink: /publication/jstars
 excerpt: 'Tang, W., Zhan, W., Jin, B., Motagh, M., & Xu, Y. (2021). Spatial variability of relative sea-level rise in Tianjin, China: insight from InSAR, GPS, and tide-gauge observations. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 14, 2621-2633. [https://doi.org/10.1109/JSTARS.2021.3054395](https://doi.org/10.1109/JSTARS.2021.3054395)'
 date: 2021-03-03
 venue: 'March 03'
-paperurl: '/files/jstars.pdf'
+# paperurl: '/files/jstars.pdf'
 ---
 
-[Download Paper](/files/jstars.pdf)
- | 
 [View Online](https://doi.org/10.1109/JSTARS.2021.3054395)
 
 The Tianjin coastal region in Bohai Bay, Northern China, is increasingly affected by storm-surge flooding which is exacerbated by anthropogenic land subsidence and global sea-level rise (SLR). We use a combination of synthetic aperture radar interferometry (InSAR), continuous GPS (CGPS), and tide-gauge observations to evaluate the spatial variability of relative SLR (RSLR) along the coastline of Tianjin. Land motion obtained by integration of 2 tracks of Sentinel-1 SAR images and 19 CGPS stations shows that the recent land subsidence in Tianjin downtown is less than 8 mm/yr, which has significantly decreased with respect to the last 50 years (up to 110 mm/yr in the 1980s). This might benefit from the South-to-North Water Transfer Project which has provided more than 1.8 billion cubic meters of water for Tianjin city since 2014 and reduced groundwater consumption. However, subsidence centers have shifted to suburbs, especially along the coastline dominated by reclaimed harbors and aquaculture industry, with localized subsidence up to 170 mm/yr. Combining InSAR observations with sea level records from tide-gauge stations reveals spatial variability of RSLR along the coastline. We find that, in the aquaculture zones along the coastline, the rates of land subsidence are as high as 82 mm/yr due to groundwater extraction for fisheries, which subsequently cause local sea levels to rise nearly 30 times faster than the global average. New insights into land subsidence and local SLR could help the country's regulators to make decisions on ensuring the sustainable development of the coastal aquaculture industry.

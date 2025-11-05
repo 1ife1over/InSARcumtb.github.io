@@ -6,12 +6,10 @@ permalink: /publication/Natural-Hazards
 excerpt: 'Wei Tang*; Xiangjun Zhao; Jing Li; et al. Investigation of land subsidence in the Fenhe River Basin, northern China, using Sentinel-1 InSAR time series analysis, to support hazard mitigation and groundwater management. Natural Hazards, 2025, 121, 20683–20711. [https://doi.org/10.1007/s11069-025-07582-9](https://doi.org/10.1007/s11069-025-07582-9)'
 date: 2025-08-21
 venue: 'August 21'
-paperurl: '/files/Natural-Hazards.pdf'
+# paperurl: '/files/Natural-Hazards.pdf'
 
 ---
 
-[Download Paper](/files/Natural-Hazards.pdf)
- | 
 [View Online](https://doi.org/10.1007/s11069-025-07582-9)
 
 The Fenhe River Basin, a semiarid region in northern China, faces severe land subsidence driven by groundwater overexploitation and underground coal mining, threatening regional sustainability. This study employs multi-temporal Sentinel-1 SAR data (2017–2021) processed through advanced InSAR techniques, integrated with GACOS (Generic Atmospheric Correction Online Service) and CSS (Common Scene Stacking) atmospheric corrections, to generate the first basin-wide deformation map through seamless merging of adjacent satellite tracks. Our analysis reveals three principal deformation regimes: (1) Aquifer-system compaction - widespread subsidence (≤ 81 mm/yr) in agricultural plains, driven by irrigation pumping with seasonal deformation cycles (annual periodicity with 40 mm peak-to-peak amplitude) synchronous with groundwater level fluctuations; (2) Urban aquifer recovery – land uplift signals (≤ 20 mm/yr) in urban areas of Taiyuan and Qingxu, reflecting aquifer recovery from reduced extraction; (3) Mining-induced subsidence - accelerated deformation (≤ 87 mm/yr) in coal-rich mountainous areas, exhibiting abrupt displacement signatures during active extraction phases. The technical innovation of combining model-based (GACOS) and data-driven (CSS) atmospheric corrections proves particularly effective for large-scale InSAR implementation in topographically complex basins. The combined use of GACOS and CSS primarily offers a twofold advantage: (1) enhanced accuracy in atmospheric correction, and (2) mitigation of systematic offsets in deformation measurements within overlapping areas between adjacent satellite tracks. Results validate the success of groundwater management policies in stabilizing aquifer systems while highlighting persistent challenges in agricultural water use depending on groundwater irrigation. This work establishes a replicable monitoring framework for sustainable water resource management in groundwater-dependent basins globally, emphasizing the necessity of integrating satellite geodesy with adaptive water governance strategies.
@@ -20,4 +18,4 @@ The Fenhe River Basin, a semiarid region in northern China, faces severe land su
 
 # Graphical Abstract
 
-![Graphical Abstract](/files/Natural-Hazards_abstract.png)
+![Graphical Abstract](/InSARcumtb.github.io/files/Natural-Hazards_abstract.png)

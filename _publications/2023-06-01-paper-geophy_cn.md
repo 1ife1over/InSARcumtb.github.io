@@ -6,12 +6,10 @@ permalink: /publication/geophy_cn
 excerpt: '唐伟, 赵祥君*, 康彩琴, et al. 太原盆地地面沉降时序InSAR监测与季节性变形小波分析. 地球物理学报, 2023, 66(6): 2352-2369. [https://doi.org/10.6038/cjg2022Q0296](https://doi.org/10.6038/cjg2022Q0296) '
 date: 2023-06-01
 venue: 'June'
-paperurl: '/files/太原盆地地面沉降时序InSAR监测与季节性变形小波分析.pdf'
+# paperurl: '/files/太原盆地地面沉降时序InSAR监测与季节性变形小波分析.pdf'
 
 ---
 
-[Download Paper](/files/太原盆地地面沉降时序InSAR监测与季节性变形小波分析.pdf)
- | 
 [View Online](https://doi.org/10.6038/cjg2022Q0296)
 
 Groundwater overexploitation has been lasted for decades in Taiyuan Basin, causing the regional groundwater level to decline, which has been resulting in serious land subsidence. The temporal and spatial evolution of land subsidence has a strong correlation with the dynamic evolution of groundwater level. In this paper, we processed Sentinel-1 satellite data from 2015 to 2020 by SBAS-InSAR algorithm to investigate the surface deformation in Taiyuan Basin. A seasonal deformation model was used to separate the linear trend and the seasonal periodic signal in the deformation time series. Based on the wavelet analysis method, the periodic evolution characteristics of surface subsidence and groundwater level, and their time-lag relationships were quantitatively analyzed. We found that: (1) land subsidence mainly occurred in the central part of Taiyuan Basin (Xiaodian—Qingxu—Jiaocheng—Qixian—Taigu area, with a maximum rate up to -70.0 mm·a-1), in the western part (Qingxu—Jiaocheng area, with a maximum rate up to -63.4 mm·a-1) and in the southern part (Xiaoyi—Jiexiu area, with a maximum rate up to -72.2 mm·a-1); (2) due to the implementation of a series of water management practices such as closing wells and the Wanjiazhai Water Diversion project, groundwater level in Taiyuan City has been rising, the land has reversed from subsidence to uplift, with an overall uplift rate about 9 mm·a-1; (3) the surface deformation in the central part of Taiyuan Basin (Qingxu—Qixian—Taigu area) presented an obvious "subsidence-rebound" periodic variation following with the seasonal "drainage-recharge" behavior of the groundwater level variations; (4) the time-lag relationship between seasonal surface deformation and groundwater level change was not significant (only 22 days), indicating that low-permeability clay units in this region have little influence on delaying the compaction of aquifer systems. The results of our paper can provide a scientific support for the formulation of land subsidence prevention and control and sustainable water resource exploitation and utilization planning in the Taiyuan Basin.
