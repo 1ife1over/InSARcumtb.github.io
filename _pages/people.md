@@ -16,7 +16,7 @@ author_profile: true
 
 ## 教师
 
-<img src="/images/weitang_photo.jpg" alt="WT_photo" width="300">
+<img src="/images/profile.png" alt="WT_photo" width="300">
 
 
 
