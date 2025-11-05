@@ -16,10 +16,7 @@ author_profile: true
 
 ## 教师
 
-<div style="text-align: left;"> 
-  <img src="images/weitang_photo.jpg" alt="WT_photo" width="300">
-</div>
-
+![WT_photo](/images/weitang_photo.jpg)
 
 **唐 伟 副教授**  
 中国矿业大学（北京）
@@ -220,5 +217,6 @@ author_profile: true
 
 * **王金洋** 
 >>>>>>> 774ef6b (Initial commit)
+
 
 
