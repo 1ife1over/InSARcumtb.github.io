@@ -1,0 +1,19 @@
+---
+title: "Three-dimensional surface deformation from multi-track InSAR and oil reservoir characterization: A case study in the Liaohe Oilfield, northeast China"
+collection: publications
+category: manuscripts
+permalink: /publication/ijrmms
+excerpt: 'Tang W, Gong Z, Sun X, et al. Three-dimensional surface deformation from multi-track InSAR and oil reservoir characterization: A case study in the Liaohe Oilfield, northeast China[J]. International Journal of Rock Mechanics and Mining Sciences, 2024, 174: 105637. [https://doi.org/10.1016/j.ijrmms.2024.105637](https://doi.org/10.1016/j.ijrmms.2024.105637)'
+date: 2024-01-18
+venue: 'January 18'
+paperurl: '/files/ijrmms.pdf'
+
+---
+
+[Download Paper](/files/ijrmms.pdf)
+ | 
+[View Online](https://doi.org/10.1016/j.ijrmms.2024.105637)
+
+Oil productions can result in pore pressure drop in the reservoir, generating an increase in effective stress and leading to reservoir compaction. The compaction in the subsurface reservoir translates to the earth's surface, which is manifested as a loss of elevation (land subsidence), causing damages to oil production facilities and surface infrastructures. The Liaohe oilfield, located in Liaohe River Delta (LRD), northeast of China, is one of the most significant subsidence areas in China as a direct consequence of oil extraction from the reservoir. Previous studies carried out in this area assumed the oil production-induced displacement retrieved from Interferometric Synthetic Aperture Radar (InSAR) corresponds only to vertical deformation. In this work, for the first time, we proposed a method to retrieve the full three-dimensional (3D) displacement field over the oilfield. We retrieved the vertical and east-west displacement components by combining the multiple-geometry InSAR line-of-sight (LOS) observations and retrieved the north-south component based on the assumption of a physical relationship between the horizontal and vertical displacement. Two ascending and two descending datasets from Sentinel-1 satellite covering the area were processed by an InSAR time series analysis over the 2017 to 2021 period, providing consistent displacement rate maps and displacement time series in the LOS direction. Spatial local-scale land subsidence was found in several producing fields over the deltaic region, including Shuguang, Huanxiling, and Jinzhou oilfields. The 3D displacement decomposition was then conducted in Shuguang oilfield. The derived 3D displacement field exhibit a circular subsidence bowl with a maximum subsiding rate reaching 212 mm/year, accompanied by a centripetal pattern of horizontal displacements with maximum rates up to 50–60 mm/year moving towards the subsidence center. The retrieved 3D displacements are in good agreement with predictions from the geomechanical modeling by assuming a disk-shaped reservoir subject to a uniform reduction in pore fluid pressure. Finally, we show the importance of knowing both the vertical and horizontal displacement in characterizing the lateral boundary of the subsurface reservoir.
+
+石油生产会导致储层内孔隙压力下降，增加有效应力，从而导致储层压实。地下储层的压实会向地表传播，表现为地面高程的下降（地面沉降），这会对石油生产设施和地面基础设施造成损害。位于中国东北辽河三角洲（LRD）的辽河油田是中国最重要的沉降区之一，油气开采是导致该地区沉降的直接原因。以往在该区域的研究中，假设从干涉合成孔径雷达（InSAR）提取的油气生产引起的位移仅对应垂直变形。在本研究中，我们首次提出了一种方法，用于提取油田的完整三维（3D）位移场。通过结合多几何InSAR视线（LOS）观测，我们获取了垂直和东西方向的位移分量，并基于水平位移和垂直位移之间的物理关系假设，估算了南北方向的位移分量。使用了覆盖该区域的来自Sentinel-1卫星的两个上行轨道和两个下行轨道数据集，通过2017到2021年的InSAR时间序列分析，提供了一致的位移速率图和雷达视线方向的位移时间序列。研究发现，三角洲地区多个生产油田（包括曙光、环西岭和锦州油田）存在局部尺度的地面沉降。然后对曙光油田进行了三维位移分解。提取的三维位移场展示了一个圆形的沉降盆地，最大沉降速率达212毫米/年，同时伴随着一个向沉降中心指向的水平方向位移模式，最大水平方向位移速率达到50–60毫米/年。提取的三维位移与假设储层为盘状并经历孔隙流体压力均匀降低的地质力学建模预测结果高度一致。最后，我们展示了了解垂直和水平方向位移在表征地下储层侧边界方面的重要性。

@@ -1,0 +1,18 @@
+---
+title: "基于全球气象再分析资料的InSAR对流层延迟改正研究"
+collection: publications
+category: manuscripts
+permalink: /publication/geophy_cn2
+excerpt: '唐伟, 廖明生, 张丽 &  张路. (2017). 基于全球气象再分析资料的InSAR对流层延迟改正研究. 地球物理学报, 60 (02), 527-540. [https://doi.org/10.6038/cjg20170208](http://www.geophy.cn/article/doi/10.6038/cjg20170208)'
+date: 2017-02-05
+venue: 'February 05'
+paperurl: '/files/基于全球气象再分析资料的InSAR对流层延迟改正研究.pdf'
+---
+
+[Download Paper](/files/基于全球气象再分析资料的InSAR对流层延迟改正研究.pdf)
+ | 
+[View Online](http://www.geophy.cn/article/doi/10.6038/cjg20170208)
+
+Spatial and temporal variations in the pressure, temperature, and water vapor content in the atmosphere introduce significant tropospheric delay into interferometric synthetic aperture radar (InSAR) data, which is one of the main limitations in high precision InSAR applications. Recent studies have shown that global atmospheric reanalysis products have great potential for mitigating large-scale tropospheric delay, motivating us to further explore the effectiveness and robustness of the atmospheric reanalysis products. In this paper, we describe an algorithm that uses atmospheric reanalysis for correcting tropospheric delay in InSAR data. We focus on two reanalysis products in our study, ERA-Interim reanalysis and North American Regional Reanalysis (NARR). We examine the efficiency of these two atmospheric reanalysis by processing a set of interferometric SAR images (N=51) acquired by ENVISAT ASAR over Southern California, USA from May 2005 to September 2010. We validated our approach by comparing these products to atmospheric delay measurements derived from the passive multispectral imager Medium-Resolution Imaging Spectrometer (MERIS), onboard the ENVISAT satellite. We found that:(1) the hydrostatic contribution to interferometric phase delay must be taken into account, and this component can be precisely predicted by using reanalysis products; (2) comparisons with MERIS show that the tropospheric delay predicted from atmospheric reanalysis products have similar performance as MERIS; (3) although NARR has a higher spatial and temporal resolution and can reflect the path delay with a finer scale, we find that the overall performance of NARR has no obvious advantages over ERA-Interim; (4) in cases where stratified atmospheric artifacts dominate interferograms, these atmospheric conditions are effectively reproduced by the reanalysis products, but these reanalysis products are not suited for estimating turbulent patterns in single interferograms. We conclude that the atmospheric reanalysis is suitable for predicting the stratified tropospheric delay in interferograms thus improving the accuracy of topography and deformation mapping applications. The advantages of atmospheric reanalysis are threefold:free, global coverage, and daily availability.
+
+气压、温度和水汽含量等大气物理参数的时空变化导致的对流层延迟是制约合成孔径雷达干涉测量（Interferometric Synthetic Aperture Radar，InSAR）高精度应用的重要因素之一。最新研究显示气象再分析资料在补偿对流层延迟影响方面具有巨大的应用潜力，这促使我们对其有效性和鲁棒性做进一步的研究和探索。本文首先推导了利用气象再分析资料对InSAR进行对流层延迟校正的算法；然后以美国南加州地区的ENVISAT ASAR数据为例，分析了基于两种气象再分析资料（ERA-Interim和North American Regional Reanalysis，NARR）校正InSAR对流层延迟改正的效果；通过与MERIS水汽延迟改正结果比较，验证了该方法的有效性。实验结果表明：（1）不能简单忽略干延迟，可通过气象再分析资料进行有效估计；（2）通过与MERIS水汽产品获得的对流层延迟比较发现，气象再分析资料能够取得接近于MERIS的改善效果；（3）对ERA-Interim和NARR两种气象再分析资料而言，虽然后者具有更高的时间和空间分辨率，但在改正InSAR对流层延迟方面并没有表现出比前者更明显的优势；（4）气象再分析资料可以很好地估计与地形强相关的垂直分层延迟，但对于小尺度的湍流混合延迟的捕捉能力有限。综合分析认为，气象再分析资料的优势在于其数据可随时获得、免费和全球覆盖，它可以显著减弱大尺度的垂直分层延迟对干涉图相位的影响，从而有助于InSAR获取更真实可靠的地形高程和地表形变信息。
