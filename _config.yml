@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "InSAR@CUMTB"
+title                    : "CUMTB-InSAR"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,8 +23,8 @@ repository               : "1ife1over/InSARcumtb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar2.jpg"
-  name             : "Wei Tang"
+  avatar           : "cumtb-insar.png"
+  # name             : "Wei Tang"
   pronouns         : # example: "she/her"  
   bio              : "College of Geoscience and Surveying Engineering<br>China University of Mining and Technology, Beijing"
   location         : "Beijing, China"
@@ -86,7 +86,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
