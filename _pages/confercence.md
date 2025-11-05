@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conference"
+title: "Conference/学术会议"
 permalink: /conference/
 author_profile: true
 redirect_from:
@@ -10,12 +10,35 @@ redirect_from:
 {% include base_path %}
 
 
-- 2025-10：2025年全国博士生(测绘、遥感学科)学术论坛，优秀口头报告三等奖 - 中南大学
+- 2025-10：2025年全国博士生(测绘、遥感学科)学术论坛 - 中南大学
 
-- 2024-06：第一届雷达干涉测量学术研讨会，快播报告 - 武汉大学
+赵祥君 刘莹 口头报告 | 李雪鹏 参会
 
-- 2023-11：第六届全国地面沉降防治学术研讨会，口头报告 - 首都师范大学
+![photo](/InSARcumtb.github.io/files/meeting5.png)
+![photo](/InSARcumtb.github.io/files/meeting6.png)
+
+
+- 2024-06：第一届雷达干涉测量学术研讨会 - 武汉大学
+
+唐伟老师 口头报告 | 赵祥君 耿旭 快播报告 | 付煜 常纪龙 参会
+
+![photo](/InSARcumtb.github.io/files/meeting2.png)
+![photo](/InSARcumtb.github.io/files/meeting3.png)
+![photo](/InSARcumtb.github.io/files/meeting4.png)
+
+
+
+- 2023-11：第六届全国地面沉降防治学术研讨会 - 首都师范大学
+
+赵祥君 口头报告 | 朱桐作 耿旭 付煜 常纪龙 参会
+
+![photo](/InSARcumtb.github.io/files/meeting0.png)
+![photo](/InSARcumtb.github.io/files/meeting1.png)
 
 - 2023-03：参加测绘科学前沿技术发展研讨会 - 北京建筑大学
 
-- 2021-10：参加2021年全国博士生学术论坛（测绘科学与技术）- 中国矿业大学（北京）
+王金洋 赵祥君 参会
+
+- 2021-10: 全国博士生学术论坛（测绘科学与技术）- 中国矿业大学（北京）
+
+王金洋 赵祥君 参会
