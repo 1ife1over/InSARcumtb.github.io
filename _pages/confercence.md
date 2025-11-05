@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+## 2025-10：第九届“地下水科学青年论坛” - 合肥工业大学
+
+赵祥君 口头报告
+
+![photo](/InSARcumtb.github.io/files/meeting7.jpg)
 
 ## 2025-10：2025年全国博士生(测绘、遥感学科)学术论坛 - 中南大学
 
@@ -28,6 +33,7 @@ redirect_from:
   | 
 付煜 常纪龙 参会
 
+![photo](/InSARcumtb.github.io/files/meeting22.jpg)
 ![photo](/InSARcumtb.github.io/files/meeting2.jpg)
 ![photo](/InSARcumtb.github.io/files/meeting3.jpg)
 ![photo](/InSARcumtb.github.io/files/meeting4.jpg)
@@ -36,7 +42,7 @@ redirect_from:
 
 ## 2023-11：第六届全国地面沉降防治学术研讨会 - 首都师范大学
 
-赵祥君 口头报告
+唐伟老师 赵祥君 口头报告
  | 
 朱桐作 耿旭 付煜 常纪龙 参会
 
