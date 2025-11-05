@@ -16,7 +16,10 @@ author_profile: true
 
 ## 教师
 
-![WT_photo](/images/weitang_photo.jpg)
+<div style="text-align: left;"> 
+  <img src="https://github.com/1ife1over/InSARcumtb.github.io/raw/master/images/weitang_photo.jpg" alt="WT_photo" width="300">
+</div>
+
 
 **唐 伟 副教授**  
 中国矿业大学（北京）
@@ -217,6 +220,7 @@ author_profile: true
 
 * **王金洋** 
 >>>>>>> 774ef6b (Initial commit)
+
 
 
 
